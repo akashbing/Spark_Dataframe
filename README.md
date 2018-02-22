@@ -1,2 +1,2 @@
 # Spark_Dataframe
-Spark_DataFrame aggregate columns,changeing columns name etc
+Spark_DataFrame aggregate columns,changing columns name using groupBy etc
